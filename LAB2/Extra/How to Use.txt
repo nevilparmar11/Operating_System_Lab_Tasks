@@ -1,0 +1,5 @@
+1. go to ls-command folder in your terminal
+2. run gcc print.c ls.c main.c
+3. run ./a.out 
+
+Note : You can try all the possible command line arguments which is possible with default ls command

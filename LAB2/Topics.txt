@@ -1,0 +1,12 @@
+Aim : we will be exploring apis in this lab
+we will not cover system calls in this lab.
+===========================================================
+man 3 opendir
+man 3 readdir
+
+===========================================================
+Aim for ls program:
+read dir from user
+open dir
+pass the return value of open dir to readdir
+Then , it will give you all the necessary details for files and sub folders.

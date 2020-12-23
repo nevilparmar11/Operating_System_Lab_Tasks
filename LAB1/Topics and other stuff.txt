@@ -1,0 +1,34 @@
+Man 3 - C library functions
+- man  3 pthread_create
+
+Man 2 - System Calls
+- man 2 create
+
+Man - User level function description
+
+=================================
+man ps
+man read
+man write
+
+==================================
+fopen = will give you fd ( file descriptor )
+
+===================================
+
+Task1 , Task2 as specified in pdf of OS LAB 1 pdf.
+
+===================================
+
+
+basic cp prog
+ 1. scan cmd args 
+2 . if they are ok, then 
+
+===================================
+
+man ps
+- make all the ps states clear from the manpage
+- discussed 9 diff states
+- what zombie process, what is orphen process etc.
+

@@ -1,0 +1,17 @@
+Process Lab
+
+command to create a new process
+- fork()
+: called once, return twice
+- we can omit the return value of fork also.
+
+return value - int ( pid_t) type is signed int
+what are mutexes ? ---- I dont know
+
+
+
+system calls covered in this lab 
+- fork
+- wait
+- getpid
+- getppid

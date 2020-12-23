@@ -1,0 +1,15 @@
+ps -aux , ps aux are diff. It is mentioned in the man page itself.
+But in ubuntu both are same.
+
+
+=========================================
+what is wakekill, waking and parked process.
+Find it and write about it in assignment doc.
+=========================================
+
+
+STATA file params
+
+1. pid
+2. process name
+3. Status of process
